@@ -21,3 +21,7 @@
 .box:hover {
     transform: scale(200%);
 }
+
+.third:hover {
+    transform: rotate(-45deg);
+}
