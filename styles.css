@@ -22,10 +22,15 @@
     transform: scale(200%);
 }
 
-.third:hover {
-    transform: rotate(-45deg);
+.first:hover {
+    transform: skew(20deg,30deg);
 }
 
 .second:hover {
     transform: translate(100px, 50px)
 }
+
+.third:hover {
+    transform: rotate(-45deg);
+}
+
