@@ -1,0 +1,18 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+.container {
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    height: 100vh;
+    background-image: linear-gradient(to top right, aqua,rgb(248, 123, 98));
+}
+
+.box {
+    background-image: linear-gradient(to bottom right, green,orange);
+    height: 300px;
+    width: 300px;
+}
