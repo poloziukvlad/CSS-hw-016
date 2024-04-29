@@ -25,3 +25,7 @@
 .third:hover {
     transform: rotate(-45deg);
 }
+
+.second:hover {
+    transform: translate(100px, 50px)
+}
